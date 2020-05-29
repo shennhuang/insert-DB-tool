@@ -1,0 +1,12 @@
+{
+    "name": "littleqpig/insert-db",
+    "authors": [
+        {
+            "name": "shennhuang",
+            "email": "shen.huang@104.com.tw"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.4"
+    }
+}
